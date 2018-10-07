@@ -1,6 +1,6 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Hyunhee Park
+bio: 'Human Factors Engineering, Design et al.'
 
 # twitter summary info
 description: A blog about Physics and teaching science
@@ -26,21 +26,21 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+#twitter: NivedithaRam
 # google: mygoogle
-# instagram: myinstagram
+instagram: b_dobe
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: yesiamdobe
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: yesiamdobe@gmail.com
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    Hyunhee Park:
+        name: Hyunhee Park
+        bio: Human Factors Engineering, Industrial Design, UX/UI Design.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: NivedithaRam
