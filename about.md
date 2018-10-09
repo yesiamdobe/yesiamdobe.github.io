@@ -6,22 +6,16 @@ layout: page
 
 #### CV
 <hr/>
-
 ###### EDUCATION
-
 > 2015 - 2019     Human Facotrs Engineerign Bachelor
-
 >                 Industiral Designd (Minor)
-
 >                 UNIST(Ulsan National Institute of Science and Technology)
 
 
 ###### EXPERIENCE
 
-> 2017 - 2018     Alpahprime Designer[alphaprime](https://www.alphaprime.co.kr)
-
+> 2017 - 2018     Alpahprime Designer [Alpha Prime](https://www.alphaprime.co.kr)
 > 2016 - 2017     Perception and Action Laborotory Intern
-
 > 2017 - 2018     Color and Apperance Engineering Laborotory intern
 
 
