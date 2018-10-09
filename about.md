@@ -6,6 +6,7 @@ layout: page
 
 #### CV
 <hr/>
+
 ###### EDUCATION
 
 > 2015 - 2019     Human Facotrs Engineerign Bachelor
