@@ -4,7 +4,17 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }} =200x200)
 
-# I am a PhD student in Nuclear Physics at [Stony Brook university](http://www.physics.sunysb.edu/Physics/) supervised by Prof. Thomas Hemmick and Prof. Abhay Deshpande. I did my undergraduate studies in Electrical and Elctronics Engineering at [SASTRA University](http://www.sastra.edu/), India. 
+#### CV
+<hr/>
+###### EDUCATION
+> 2015 - 2019     Human Facotrs Engineerign Bachelor
+>                 Industiral Designd (Minor)
+>                 UNIST(Ulsan National Institute of Science and Technology)
+
+###### EXPERIENCE
+> 2017 - 2018     Alpahprime Designer[alphaprime](https://www.alphaprime.co.kr)
+> 2016 - 2017     Perception and Action Laborotory Intern
+> 2017 - 2018     Color and Apperance Engineering Laborotory intern
 
 ## I work on a really fun hardware project in which, I help in the design and construction of a [Time Projection Chamber](https://en.wikipedia.org/wiki/Time_projection_chamber) for a proposed [sPHENIX](https://www.sphenix.bnl.gov/web/)  detector system. In parallel, I also work on the measurement of direct photons in forward rapidities from d+Au collisions fron run 2016 at Brookhaven National Lab. This measurement allows for strong constraints of nuclear effects related to gluon saturation as well as insight into the physics of the color glass condensate. More details on my research can be found here.
 
