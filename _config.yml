@@ -3,7 +3,7 @@ name: Hyunhee Park
 bio: 'Human Factors Engineering, Design et al.'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: DOBEFOLIO
 
 # if it's an external image, update below for true
 # better with square images
@@ -40,10 +40,9 @@ email: yesiamdobe@gmail.com
 authors:
     Hyunhee Park:
         name: Hyunhee Park
-        bio: Human Factors Engineering, Industrial Design, UX/UI Design.
+        bio: Human Factors Engineering, UX/UI Design.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
