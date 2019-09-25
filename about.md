@@ -6,15 +6,13 @@ layout: page
 
 #### CV
 <hr/>
-<br/>
 ###### EDUCATION
-<br/>
 > **2015 - 2019**
 >                 <br/>**Bachelor**
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
 >                 <br/>Human Facotrs Engineerign (Major)
 >                 <br/>Industiral Designd (Minor)
-<br/>
+<br/><br/>
 > **2019 -**
 >                 <br/>**Master Cousrse** 
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
