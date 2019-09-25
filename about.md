@@ -6,7 +6,10 @@ layout: page
 
 #### CV
 <hr/>
+<br/>
 ###### EDUCATION
+<br/>
+
 > 2015 - 2019
 >                 <br/>Bachelor
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
