@@ -10,14 +10,14 @@ layout: page
 ###### EDUCATION
 <br/>
 
-> 2015 - 2019
->                 <br/>Bachelor
+> <hr/>2015 - 2019
+>                 <br/><hr/>Bachelor
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
 >                 <br/>Human Facotrs Engineerign (Major)
 >                 <br/>Industiral Designd (Minor)
 
-> 2019 -
->                 <br/>Master Cousrse 
+> <hr/>2019 -
+>                 <br/><hr/>Master Cousrse 
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
 >                 <br/>Dapartment of Human factors Engineering
 >                 <br/>Color and Apperance Engineering Laborotory
