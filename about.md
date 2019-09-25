@@ -1,5 +1,5 @@
 ---
-title: CV
+title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }} =200x200)
