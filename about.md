@@ -10,14 +10,14 @@ layout: page
 ###### EDUCATION
 <br/>
 
-> <hr/>2015 - 2019
->                 <br/><hr/>Bachelor
+> <hr/>**2015 - 2019**
+>                 <br/>**Bachelor**
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
 >                 <br/>Human Facotrs Engineerign (Major)
 >                 <br/>Industiral Designd (Minor)
 
-> <hr/>2019 -
->                 <br/><hr/>Master Cousrse 
+> <hr/>**2019 -**
+>                 <br/>**Master Cousrse** 
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
 >                 <br/>Dapartment of Human factors Engineering
 >                 <br/>Color and Apperance Engineering Laborotory
@@ -25,9 +25,9 @@ layout: page
 
 ###### EXPERIENCE
 
-> 2017 - 2019   Designer [Alpha Prime](https://www.alphaprime.co.kr)<br/>
-> 2016 - 2017   Intern : Perception and Action Laborotory in UNIST<br/>
-> 2018 - 2019   Intern : Color and Apperance Engineering Laborotory in UNIST<br/>
+> **2017 - 2019**   Designer [Alpha Prime](https://www.alphaprime.co.kr)<br/>
+> **2016 - 2017**   Intern : Perception and Action Laborotory in UNIST<br/>
+> **2018 - 2019**   Intern : Color and Apperance Engineering Laborotory in UNIST<br/>
 
 
 
