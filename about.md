@@ -9,14 +9,13 @@ layout: page
 <br/>
 ###### EDUCATION
 <br/>
-
-> <hr/>**2015 - 2019**
+> **2015 - 2019**
 >                 <br/>**Bachelor**
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
 >                 <br/>Human Facotrs Engineerign (Major)
 >                 <br/>Industiral Designd (Minor)
-
-> <hr/>**2019 -**
+<br/>
+> **2019 -**
 >                 <br/>**Master Cousrse** 
 >                 <br/>UNIST(Ulsan National Institute of Science and Technology)
 >                 <br/>Dapartment of Human factors Engineering
