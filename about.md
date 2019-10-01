@@ -27,6 +27,13 @@ layout: page
 > **2018 - 2019**   Intern : Color and Apperance Engineering Laborotory in UNIST<br/>
 
 
+###### SKILL
+><br/>Matlab
+><br/>Solidworks(3D Modeling)
+><br/>Adobe Illustrator, Adobe Photoshop, Sketch, Invision
+><br/>MicroSoft Powerpoint, excel, word
+
+
 
 <!--
 ```code block```
