@@ -28,7 +28,7 @@ layout: page
 
 
 ###### SKILL
-><br/>Matlab
+>Matlab
 ><br/>Solidworks(3D Modeling)
 ><br/>Adobe Illustrator, Adobe Photoshop, Sketch, Invision
 ><br/>MicroSoft Powerpoint, excel, word
